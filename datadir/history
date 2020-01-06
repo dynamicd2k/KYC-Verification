@@ -1,0 +1,74 @@
+eth.accounts
+eth.coinbase
+eth.getBalance
+eth.getBalance()
+eth.getBalance(eth.coinbase)
+eth.blockNumber
+miner.start()
+miner.stop()
+eth.blockNumber
+eth.getBalance(eth.coinbase)
+eth.getBalance(eth.accounts[0])
+eth.getBalance(eth.accounts[1])
+eth.sendTransaction({from:eth.account[0], to:eth.accounts[1], value:wen3.toWei(151,"ethers")})
+eth.sendTransaction({from:eth.accounts[0], to:eth.accounts[1], value:wen3.toWei(151,"ethers")})
+eth.sendTransaction({from:eth.accounts[0], to:eth.accounts[1], value:web3.toWei(151,"ethers")})
+eth.sendTransaction({from:eth.accounts[0], to:eth.accounts[1], value:web3.toWei(151,"ether")})
+deepak
+eth.getBalance(eth.accounts[1])
+eth.sendTransaction({from:eth.accounts[0], to:eth.accounts[1], value:web3.toWei(151,"ether")})
+eth.getBalance(eth.accounts[1])
+miner.start()
+miner.stop()
+eth.getBalance(eth.accounts[1])
+admin.peers
+eth.endoe.info
+eth.nodeInfo.enode
+admin.nodeInfo.enode
+admin.peers
+eth.sendTransaction({from:eth.accounts[0], to:"0x82361ca6690439127f662a4c1836601256445886", value:web3.toWei(151,"ether")})
+eth.accounts
+eth.sendTransaction({from:eth.accounts[0], to:"0x82361ca6690439127f662a4c1836601256445886", value:web3.toWei(151,"ether")})
+miner.start()
+miner.stop()
+truffle compile
+eth.accounts
+miner.start()
+miner.stop
+miner.stop()
+miner.start()
+miner.stop()
+eth.accounts
+miner.start()
+eth.getBalance(eth.coinbase)
+eth.getBalance("0x62Fa5641B41845A8800900C876825f59741E8d38")
+miner.start()
+miner.stop()
+eth.sendTransaction({from:eth.accounts[0], to:"0x62Fa5641B41845A8800900C876825f59741E8d38", value:web3.toWei(151,"ether")})
+personal.accountUnlock(eth.accounts[0],"deepak",0)
+eth.sendTransaction({from:eth.accounts[0], to:"0x62Fa5641B41845A8800900C876825f59741E8d38", value:web3.toWei(151,"ether")})
+miner.start()
+miner.stop()
+eth.getBalance("0x62Fa5641B41845A8800900C876825f59741E8d38")
+eth.sendTransaction({from:eth.accounts[0], to:"0x62Fa5641B41845A8800900C876825f59741E8d38", value:web3.toWei(300,"ether")})
+miner.start()
+miner.stop()
+eth.getBalance("0x62Fa5641B41845A8800900C876825f59741E8d38")
+eth.blockNumber
+eth.coinbase
+eth.getBalance("0x62Fa5641B41845A8800900C876825f59741E8d38")
+eth.sendTransaction({from:eth.accounts[0], to:"0x62Fa5641B41845A8800900C876825f59741E8d38", value:web3.toWei(300,"ether")})
+eth.getBalance("0x62Fa5641B41845A8800900C876825f59741E8d38")
+miner.start()
+eth.getBalance("0x62Fa5641B41845A8800900C876825f59741E8d38")
+miner.stop()
+eth.coinbase
+miner.start()
+miner.stop()
+eth.coinbase
+personal.accountUnlock(eth.accounts[0],"deepak",0)
+miner.start()
+miner.stop()
+personal.accountUnlock(eth.accounts[0],"deepak",0)
+miner.start()
+miner.stop()
